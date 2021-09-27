@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dream8826<br>
 - - 👀 I’m interested in github<br>
 - my scratch account is dream8826<br>
-- expert in simple html
+- expert in simple html<br>
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dream8826)](https://github.com/anuraghazra/github-readme-stats)<br>
 - <a href="what-i-am-working-on.md">what i am working on</a>
